@@ -18,3 +18,4 @@ A Python package for exploratory analysis of large scale genetic variation data.
 
 .. image:: https://ci.appveyor.com/api/projects/status/1fna2yr9uht0u296?svg=true
     :target: https://ci.appveyor.com/project/alimanfoo/scikit-allel
+
